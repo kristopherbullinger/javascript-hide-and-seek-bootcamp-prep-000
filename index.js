@@ -26,6 +26,7 @@ function deepestChild() {
           g.shift()
         } else {g.shift()}
       }
+      return g
     }
      
    }
